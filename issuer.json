@@ -1,0 +1,9 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Issuer",
+  "id": "https://YOUR-DOMAIN.example/badges/conf42-ff2026/issuer.json",
+  "name": "conf42.com",
+  "url": "https://conf42.com",
+  "description": "Online Tech Events",
+  "image": "https://www.conf42.com/assets/conf42/conf42_sticker.png"
+}
